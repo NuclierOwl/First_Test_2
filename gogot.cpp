@@ -1,5 +1,5 @@
-#include "gogot.h"
-#include "version.h"
+#include <gogot.h>
+#include <version.h>
 
     int version () {
 
